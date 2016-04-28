@@ -1,0 +1,6 @@
+[submodule "rett"]
+	path = rett
+	url = C:/Users/leobu/AppData/Local/GitHub/PortableGit_25d850739bc178b2eb13c3e2a9faafea2f9143c0/rett
+[submodule "external"]
+	path = external
+	url = C:/Users/leobu/AppData/Local/GitHub/PortableGit_25d850739bc178b2eb13c3e2a9faafea2f9143c0/external
